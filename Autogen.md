@@ -1,5 +1,6 @@
 # AutoGen 
-[AutoGen 0.4](https://github.com/microsoft/autogen?tab=readme-ov-file)
+[AutoGen 0.4 code repository](https://github.com/microsoft/autogen?tab=readme-ov-file)
+AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.
 
 ## Update WSL Ubuntu
 1. Check the current version:
@@ -68,7 +69,11 @@ cat /etc/os-release
 
 ## Get Latest Code from Github
 
-
+## AutoGen install
+```
+  # Install AgentChat and OpenAI client from Extensions
+  pip install -U "autogen-agentchat" "autogen-ext[openai]"
+```
 
 
 
