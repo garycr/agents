@@ -1,7 +1,13 @@
 # AutoGen 
-[AutoGen 0.4 code repository](https://github.com/microsoft/autogen?tab=readme-ov-file)
-AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.
+AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.  
 
+&nbsp;&nbsp;[AutoGen 0.4 code repository](https://github.com/microsoft/autogen?tab=readme-ov-file)  
+&nbsp;&nbsp;[Update WSL Ubuntu](https://github.com/garycr/agents/edit/main/Autogen.md#update-wsl-ubuntu)  
+&nbsp;&nbsp;[Update Python](https://github.com/garycr/agents/edit/main/Autogen.md#update-python)  
+&nbsp;&nbsp;[Get Latest Code from Github](https://github.com/garycr/agents/edit/main/Autogen.md#get-latest-code-from-github)  
+&nbsp;&nbsp;[AutoGen python library install](https://github.com/garycr/agents/edit/main/Autogen.md#autogen-install)  
+
+   
 ## Update WSL Ubuntu
 1. Check the current version:
 - Open your WSL terminal.
